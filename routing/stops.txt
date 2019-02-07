@@ -1,0 +1,15 @@
+stop_id,stop_name,stop_lat,stop_lon,parent_station,location_type
+stop1,One,46.95960,7.39071,,1
+stop1a,One,46.95961,7.39072,stop1,0
+stop1b,One,46.95946,7.39132,stop1,0
+stop2,Two,46.96230,7.39899,,0
+stop3,Three,46.96347,7.40838,,1
+stop3a,Three,46.96348,7.40839,stop3,0
+stop3b,Three,46.96411,7.40844,stop3,0
+stop4,Four,46.96878,7.42447,,0
+stop5,Five,46.95650,7.40168,,0
+stop6,Six,46.95389,7.40852,,0
+stop7,Seven,46.95744,7.41633,,0
+stop8,Eight,46.96253,7.42395,,1
+stop8a,Eight,46.96254,7.42396,stop8,0
+stop8b,Eight,46.96256,7.42300,stop8,0

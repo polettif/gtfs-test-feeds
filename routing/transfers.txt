@@ -1,0 +1,5 @@
+from_stop_id,to_stop_id,transfer_type,min_transfer_time
+stop3a,stop3b,2,10
+stop3b,stop3a,2,10
+stop8a,stop8b,2,10
+stop8b,stop8a,2,10
