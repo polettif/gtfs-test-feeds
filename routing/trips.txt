@@ -5,3 +5,5 @@ lineB,WEEK,routeB
 lineC,WEEK,routeC
 lineD,WEEK,routeD1
 lineD,WEEK,routeD2
+lineB,WEND,routeB
+lineC,WEND,routeC
