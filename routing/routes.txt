@@ -3,3 +3,4 @@ lineA,Line A,Bus Line A,3
 lineB,Line B,Tram Line B,0
 lineC,Line C,Bus Line C,3
 lineD,Line D,Metro Line D,1
+lineE,Line E,Metro Line D (Sunday),1

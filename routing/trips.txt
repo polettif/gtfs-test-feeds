@@ -1,9 +1,10 @@
 route_id,service_id,trip_id
 lineA,WEEK,routeA1
 lineA,WEEK,routeA2
-lineB,WEEK,routeB
-lineC,WEEK,routeC
+lineB,WEEK,routeB1
+lineC,WEEK,routeC1
 lineD,WEEK,routeD1
 lineD,WEEK,routeD2
-lineB,WEND,routeB
-lineC,WEND,routeC
+lineB,WEND,routeB2
+lineC,WEND,routeC2
+lineE,SUND,routeD3
